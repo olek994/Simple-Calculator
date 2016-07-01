@@ -1,0 +1,21 @@
+
+.button{
+    -fx-background-color: #595959;
+    -fx-font-size: 20;
+    -fx-text-fill: white;
+    -fx-background-radius: 20;
+}
+.button:pressed{
+    -fx-background-color: #808000;
+    -fx-background-radius: 30;
+}
+.root{
+    -fx-background-color: #e6e6e6;
+}
+#maininput{
+    -fx-background-insets: none;
+    -fx-font-size: 30;
+    -fx-background-color: #333333;
+    -fx-text-fill: white;
+    
+}
